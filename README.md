@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YingqiLiu1999
 - 👀 I’m interested in Federated Learning and Optimizer Design.
-- 📫 How to reach me: Liuyingqi1199@gmail.com
+- 📫 How to reach me: liuyingqi1199@gmail.com
 
 
 <!---
